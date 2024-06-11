@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Salma Ahmed
 
-![Your Banner Image](https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv)
+![Your Banner Image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJpMnowa3kxeWh1NXFqNW8wYnAxdzd4bHRxYmF0eDhjOGZjemg0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp)
 
 ### About Me
 
@@ -46,9 +46,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/salma-ahmed-71a9a8229)
 
-### GitHub Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=salma234-del&color=brightgreen)
 
 
 
