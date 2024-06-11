@@ -5,7 +5,7 @@
 ### About Me
 
 - 🌱 I’m currently learning Mobile Development with Flutter
-- 🔭 I’m working on Freelance Flutter Apps
+- 🔭 I’m working on Freelance Mobile Apps
 - 👯 I’m looking to collaborate on **open-source Flutter projects and mobile app development**
 - 💬 Ask me about **Flutter, Dart, and mobile app development**
 - 📫 How to reach me: **[Email](mailto:sa310107@gmail.com) or [LinkedIn](https://www.linkedin.com/in/salma-ahmed-71a9a8229)**
