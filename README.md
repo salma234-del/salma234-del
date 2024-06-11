@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Salma Ahmed
 
-![Your Banner Image](https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif)
+<div align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif="Banner Image">
+</div>
 
 ### About Me
 
